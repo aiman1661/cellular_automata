@@ -1,0 +1,68 @@
+Begininning simulation... 
+
+Simulating with immune fraction: 0.0
+Average Infection (Fraction): 0.2548472 
+
+Simulating with immune fraction: 0.05
+Average Infection (Fraction): 0.225044 
+
+Simulating with immune fraction: 0.1
+Average Infection (Fraction): 0.1899164 
+
+Simulating with immune fraction: 0.15000000000000002
+Average Infection (Fraction): 0.14837 
+
+Simulating with immune fraction: 0.2
+Average Infection (Fraction): 0.1007532 
+
+Simulating with immune fraction: 0.25
+Average Infection (Fraction): 0.0352332 
+
+Simulating with immune fraction: 0.30000000000000004
+Average Infection (Fraction): 0.0005236 
+
+Simulating with immune fraction: 0.35000000000000003
+Average Infection (Fraction): 0.0002968 
+
+Simulating with immune fraction: 0.4
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.45
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.5
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.55
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.6000000000000001
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.65
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.7000000000000001
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.75
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.8
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.8500000000000001
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.9
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 0.9500000000000001
+Average Infection (Fraction): 0.0 
+
+Simulating with immune fraction: 1.0
+Average Infection (Fraction): 0.0 
+
+Job Done! :)
+Check directory for immune_measurements.npy file. Data analysis can be done by using np.load. 
+

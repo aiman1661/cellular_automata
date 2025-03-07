@@ -1,0 +1,85 @@
+Begininning simulation... 
+
+Simulating p1: 0.2
+Average Infection (Fraction): 0.0
+Variance Infection (Fraction): 0.0
+Sigma Variance Infection (Fraction): 0.0 
+
+Simulating p1: 0.22
+Average Infection (Fraction): 0.0
+Variance Infection (Fraction): 0.0
+Sigma Variance Infection (Fraction): 0.0 
+
+Simulating p1: 0.24
+Average Infection (Fraction): 0.0
+Variance Infection (Fraction): 0.0
+Sigma Variance Infection (Fraction): 0.0 
+
+Simulating p1: 0.26
+Average Infection (Fraction): 0.0
+Variance Infection (Fraction): 0.0
+Sigma Variance Infection (Fraction): 0.0 
+
+Simulating p1: 0.27999999999999997
+Average Infection (Fraction): 0.3647
+Variance Infection (Fraction): 0.0037795575639999997
+Sigma Variance Infection (Fraction): 0.0003829640440853797 
+
+Simulating p1: 0.29999999999999993
+Average Infection (Fraction): 5.4094
+Variance Infection (Fraction): 0.190532316656
+Sigma Variance Infection (Fraction): 0.009603866654094914 
+
+Simulating p1: 0.31999999999999995
+Average Infection (Fraction): 194.4889
+Variance Infection (Fraction): 0.7469771507159981
+Sigma Variance Infection (Fraction): 0.010190299034131933 
+
+Simulating p1: 0.33999999999999997
+Average Infection (Fraction): 290.976
+Variance Infection (Fraction): 0.7031675296000031
+Sigma Variance Infection (Fraction): 0.010005290904927248 
+
+Simulating p1: 0.35999999999999993
+Average Infection (Fraction): 369.8571
+Variance Infection (Fraction): 0.6070929918359965
+Sigma Variance Infection (Fraction): 0.008923910180279824 
+
+Simulating p1: 0.3799999999999999
+Average Infection (Fraction): 428.5
+Variance Infection (Fraction): 0.5215693599999999
+Sigma Variance Infection (Fraction): 0.00719328974666397 
+
+Simulating p1: 0.3999999999999999
+Average Infection (Fraction): 474.4754
+Variance Infection (Fraction): 0.5103479179360089
+Sigma Variance Infection (Fraction): 0.007229755347669301 
+
+Simulating p1: 0.41999999999999993
+Average Infection (Fraction): 515.6576
+Variance Infection (Fraction): 0.4593747848960105
+Sigma Variance Infection (Fraction): 0.00642682596851003 
+
+Simulating p1: 0.4399999999999999
+Average Infection (Fraction): 552.3889
+Variance Infection (Fraction): 0.447701702715992
+Sigma Variance Infection (Fraction): 0.0062892312890183615 
+
+Simulating p1: 0.45999999999999985
+Average Infection (Fraction): 583.4303
+Variance Infection (Fraction): 0.4497311767640058
+Sigma Variance Infection (Fraction): 0.006443526361174049 
+
+Simulating p1: 0.47999999999999987
+Average Infection (Fraction): 612.3583
+Variance Infection (Fraction): 0.4551990084439982
+Sigma Variance Infection (Fraction): 0.006452285232481782 
+
+Simulating p1: 0.4999999999999999
+Average Infection (Fraction): 637.9069
+Variance Infection (Fraction): 0.4356199329560157
+Sigma Variance Infection (Fraction): 0.006070486013775386 
+
+Job Done! :)
+Check directory for test_waves.npy file. Data analysis can be done by using np.load. 
+

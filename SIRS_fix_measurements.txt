@@ -1,0 +1,2210 @@
+Begininning simulation... 
+
+Simulating p1: 0.0, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.2
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.25
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.30000000000000004
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.35000000000000003
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.4
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.45
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.5
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.55
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.6000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.65
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.7000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.75
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.8
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.8500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.9
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 0.9500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.0, p3: 1.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.2
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.25
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.30000000000000004
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.35000000000000003
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.4
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.45
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.5
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.55
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.6000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.65
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.7000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.75
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.8
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.8500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.9
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 0.9500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.05, p3: 1.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.2
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.25
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.30000000000000004
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.35000000000000003
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.4
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.45
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.5
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.55
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.6000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.65
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.7000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.75
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.8
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.8500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.9
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 0.9500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.1, p3: 1.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.2
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.25
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.30000000000000004
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.35000000000000003
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.4
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.45
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.5
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.55
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.6000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.65
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.7000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.75
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.8
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.8500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.9
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 0.9500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.15000000000000002, p3: 1.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.2
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.25
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.30000000000000004
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.35000000000000003
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.4
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.45
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.5
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.55
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.6000000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.65
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.7000000000000001
+Average Infection (Fraction): 5.199999999999999e-06
+Average Infection (Fraction) Squared: 4.319999999999999e-09
+Variance Infection : 1.07324e-05 
+
+Simulating p1: 0.2, p3: 0.75
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.8
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.8500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.9
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 0.9500000000000001
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.2, p3: 1.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.2
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.25
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.30000000000000004
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.35000000000000003
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.4
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.45
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.25, p3: 0.5
+Average Infection (Fraction): 1.3999999999999998e-05
+Average Infection (Fraction) Squared: 3.44e-08
+Variance Infection : 8.551e-05 
+
+Simulating p1: 0.25, p3: 0.55
+Average Infection (Fraction): 0.00017600000000000002
+Average Infection (Fraction) Squared: 6.924799999999999e-07
+Variance Infection : 0.0016537600000000002 
+
+Simulating p1: 0.25, p3: 0.6000000000000001
+Average Infection (Fraction): 8e-05
+Average Infection (Fraction) Squared: 2.2783999999999998e-07
+Variance Infection : 0.0005536 
+
+Simulating p1: 0.25, p3: 0.65
+Average Infection (Fraction): 7.280000000000001e-05
+Average Infection (Fraction) Squared: 3.2256e-07
+Variance Infection : 0.0007931504 
+
+Simulating p1: 0.25, p3: 0.7000000000000001
+Average Infection (Fraction): 0.0003384
+Average Infection (Fraction) Squared: 2.44896e-06
+Variance Infection : 0.0058361136 
+
+Simulating p1: 0.25, p3: 0.75
+Average Infection (Fraction): 0.0007208
+Average Infection (Fraction) Squared: 7.468479999999999e-06
+Variance Infection : 0.0173723184 
+
+Simulating p1: 0.25, p3: 0.8
+Average Infection (Fraction): 0.0003784
+Average Infection (Fraction) Squared: 2.06208e-06
+Variance Infection : 0.0047972336 
+
+Simulating p1: 0.25, p3: 0.8500000000000001
+Average Infection (Fraction): 0.0009855999999999999
+Average Infection (Fraction) Squared: 1.565408e-05
+Variance Infection : 0.0367066816 
+
+Simulating p1: 0.25, p3: 0.9
+Average Infection (Fraction): 9.88e-05
+Average Infection (Fraction) Squared: 3.1855999999999996e-07
+Variance Infection : 0.0007719964 
+
+Simulating p1: 0.25, p3: 0.9500000000000001
+Average Infection (Fraction): 0.0014936
+Average Infection (Fraction) Squared: 4.013376e-05
+Variance Infection : 0.0947572976 
+
+Simulating p1: 0.25, p3: 1.0
+Average Infection (Fraction): 0.0026436000000000003
+Average Infection (Fraction) Squared: 4.496208e-05
+Variance Infection : 0.09493364759999999 
+
+Simulating p1: 0.30000000000000004, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.30000000000000004, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.30000000000000004, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.30000000000000004, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.30000000000000004, p3: 0.2
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.30000000000000004, p3: 0.25
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.30000000000000004, p3: 0.30000000000000004
+Average Infection (Fraction): 0.0008119999999999999
+Average Infection (Fraction) Squared: 6.45568e-06
+Variance Infection : 0.01449084 
+
+Simulating p1: 0.30000000000000004, p3: 0.35000000000000003
+Average Infection (Fraction): 0.0008768000000000002
+Average Infection (Fraction) Squared: 1.3528639999999999e-05
+Variance Infection : 0.031899654400000005 
+
+Simulating p1: 0.30000000000000004, p3: 0.4
+Average Infection (Fraction): 0.000864
+Average Infection (Fraction) Squared: 1.15648e-05
+Variance Infection : 0.027045760000000002 
+
+Simulating p1: 0.30000000000000004, p3: 0.45
+Average Infection (Fraction): 0.0016232000000000002
+Average Infection (Fraction) Squared: 3.729536e-05
+Variance Infection : 0.0866514544 
+
+Simulating p1: 0.30000000000000004, p3: 0.5
+Average Infection (Fraction): 0.011522000000000001
+Average Infection (Fraction) Squared: 0.0002492248
+Variance Infection : 0.29117079 
+
+Simulating p1: 0.30000000000000004, p3: 0.55
+Average Infection (Fraction): 0.039429200000000005
+Average Infection (Fraction) Squared: 0.00174205776
+Variance Infection : 0.46848986840000073 
+
+Simulating p1: 0.30000000000000004, p3: 0.6000000000000001
+Average Infection (Fraction): 0.0536712
+Average Infection (Fraction) Squared: 0.00300618176
+Variance Infection : 0.3139601263999997 
+
+Simulating p1: 0.30000000000000004, p3: 0.65
+Average Infection (Fraction): 0.054909599999999996
+Average Infection (Fraction) Squared: 0.0035825353600000003
+Variance Infection : 1.4186779695999998 
+
+Simulating p1: 0.30000000000000004, p3: 0.7000000000000001
+Average Infection (Fraction): 0.081346
+Average Infection (Fraction) Squared: 0.00707018416
+Variance Infection : 1.132531109999999 
+
+Simulating p1: 0.30000000000000004, p3: 0.75
+Average Infection (Fraction): 0.08997759999999999
+Average Infection (Fraction) Squared: 0.00832423008
+Variance Infection : 0.5706539456000028 
+
+Simulating p1: 0.30000000000000004, p3: 0.8
+Average Infection (Fraction): 0.10345439999999999
+Average Infection (Fraction) Squared: 0.01102170912
+Variance Infection : 0.7972406015999964 
+
+Simulating p1: 0.30000000000000004, p3: 0.8500000000000001
+Average Infection (Fraction): 0.1061428
+Average Infection (Fraction) Squared: 0.01156773136
+Variance Infection : 0.7535934203999932 
+
+Simulating p1: 0.30000000000000004, p3: 0.9
+Average Infection (Fraction): 0.114284
+Average Infection (Fraction) Squared: 0.013473430400000002
+Variance Infection : 1.0314943600000057 
+
+Simulating p1: 0.30000000000000004, p3: 0.9500000000000001
+Average Infection (Fraction): 0.1286988
+Average Infection (Fraction) Squared: 0.01685264816
+Variance Infection : 0.7231675963999995 
+
+Simulating p1: 0.30000000000000004, p3: 1.0
+Average Infection (Fraction): 0.13570279999999998
+Average Infection (Fraction) Squared: 0.01873422352
+Variance Infection : 0.7974339803999988 
+
+Simulating p1: 0.35000000000000003, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.35000000000000003, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.35000000000000003, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.35000000000000003, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0006468
+Average Infection (Fraction) Squared: 5.85584e-06
+Variance Infection : 0.0135937244 
+
+Simulating p1: 0.35000000000000003, p3: 0.2
+Average Infection (Fraction): 0.0009632000000000001
+Average Infection (Fraction) Squared: 9.780480000000001e-06
+Variance Infection : 0.0221318144 
+
+Simulating p1: 0.35000000000000003, p3: 0.25
+Average Infection (Fraction): 0.010854799999999998
+Average Infection (Fraction) Squared: 0.00032707343999999997
+Variance Infection : 0.5231168923999999 
+
+Simulating p1: 0.35000000000000003, p3: 0.30000000000000004
+Average Infection (Fraction): 0.0440672
+Average Infection (Fraction) Squared: 0.0021627820800000004
+Variance Infection : 0.5521599104000001 
+
+Simulating p1: 0.35000000000000003, p3: 0.35000000000000003
+Average Infection (Fraction): 0.07740879999999999
+Average Infection (Fraction) Squared: 0.00620296896
+Variance Infection : 0.527116606399999 
+
+Simulating p1: 0.35000000000000003, p3: 0.4
+Average Infection (Fraction): 0.09598040000000001
+Average Infection (Fraction) Squared: 0.009471080800000002
+Variance Infection : 0.6471090396000014 
+
+Simulating p1: 0.35000000000000003, p3: 0.45
+Average Infection (Fraction): 0.1208296
+Average Infection (Fraction) Squared: 0.01484926016
+Variance Infection : 0.6236698096000007 
+
+Simulating p1: 0.35000000000000003, p3: 0.5
+Average Infection (Fraction): 0.1362292
+Average Infection (Fraction) Squared: 0.01874374736
+Variance Infection : 0.46338106840000837 
+
+Simulating p1: 0.35000000000000003, p3: 0.55
+Average Infection (Fraction): 0.14415039999999998
+Average Infection (Fraction) Squared: 0.02103167488
+Variance Infection : 0.6308426496000029 
+
+Simulating p1: 0.35000000000000003, p3: 0.6000000000000001
+Average Infection (Fraction): 0.1636468
+Average Infection (Fraction) Squared: 0.0270265592
+Variance Infection : 0.6157101243999903 
+
+Simulating p1: 0.35000000000000003, p3: 0.65
+Average Infection (Fraction): 0.1665388
+Average Infection (Fraction) Squared: 0.02800664528
+Variance Infection : 0.678683436400001 
+
+Simulating p1: 0.35000000000000003, p3: 0.7000000000000001
+Average Infection (Fraction): 0.1758812
+Average Infection (Fraction) Squared: 0.031153876960000004
+Variance Infection : 0.5492011164000141 
+
+Simulating p1: 0.35000000000000003, p3: 0.75
+Average Infection (Fraction): 0.192786
+Average Infection (Fraction) Squared: 0.037365004640000005
+Variance Infection : 0.4964071100000176 
+
+Simulating p1: 0.35000000000000003, p3: 0.8
+Average Infection (Fraction): 0.1985924
+Average Infection (Fraction) Squared: 0.039664513760000006
+Variance Infection : 0.5639310556000099 
+
+Simulating p1: 0.35000000000000003, p3: 0.8500000000000001
+Average Infection (Fraction): 0.2028344
+Average Infection (Fraction) Squared: 0.04137611744
+Variance Infection : 0.5858090415999991 
+
+Simulating p1: 0.35000000000000003, p3: 0.9
+Average Infection (Fraction): 0.2103124
+Average Infection (Fraction) Squared: 0.044550104160000006
+Variance Infection : 0.7969964156000177 
+
+Simulating p1: 0.35000000000000003, p3: 0.9500000000000001
+Average Infection (Fraction): 0.2146012
+Average Infection (Fraction) Squared: 0.046278172
+Variance Infection : 0.5612423963999842 
+
+Simulating p1: 0.35000000000000003, p3: 1.0
+Average Infection (Fraction): 0.21907960000000004
+Average Infection (Fraction) Squared: 0.04818065840000001
+Variance Infection : 0.4619681596000213 
+
+Simulating p1: 0.4, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.4, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.4, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.4, p3: 0.15000000000000002
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.4, p3: 0.2
+Average Infection (Fraction): 0.04281
+Average Infection (Fraction) Squared: 0.00195345936
+Variance Infection : 0.3019081499999993 
+
+Simulating p1: 0.4, p3: 0.25
+Average Infection (Fraction): 0.077318
+Average Infection (Fraction) Squared: 0.00621660368
+Variance Infection : 0.596326390000002 
+
+Simulating p1: 0.4, p3: 0.30000000000000004
+Average Infection (Fraction): 0.10638000000000002
+Average Infection (Fraction) Squared: 0.01154832224
+Variance Infection : 0.5790445999999996 
+
+Simulating p1: 0.4, p3: 0.35000000000000003
+Average Infection (Fraction): 0.1339708
+Average Infection (Fraction) Squared: 0.01815860304
+Variance Infection : 0.5260694683999929 
+
+Simulating p1: 0.4, p3: 0.4
+Average Infection (Fraction): 0.1574096
+Average Infection (Fraction) Squared: 0.02498730272
+Variance Infection : 0.523801369599998 
+
+Simulating p1: 0.4, p3: 0.45
+Average Infection (Fraction): 0.1751176
+Average Infection (Fraction) Squared: 0.030876834879999995
+Variance Infection : 0.5266526256000041 
+
+Simulating p1: 0.4, p3: 0.5
+Average Infection (Fraction): 0.19204520000000003
+Average Infection (Fraction) Squared: 0.037079478560000004
+Variance Infection : 0.49529929240000203 
+
+Simulating p1: 0.4, p3: 0.55
+Average Infection (Fraction): 0.20276319999999998
+Average Infection (Fraction) Squared: 0.04128877184
+Variance Infection : 0.4396414143999922 
+
+Simulating p1: 0.4, p3: 0.6000000000000001
+Average Infection (Fraction): 0.2151688
+Average Infection (Fraction) Squared: 0.046476593280000006
+Variance Infection : 0.44745196639997886 
+
+Simulating p1: 0.4, p3: 0.65
+Average Infection (Fraction): 0.22508519999999999
+Average Infection (Fraction) Squared: 0.050861978720000006
+Variance Infection : 0.49657865240003446 
+
+Simulating p1: 0.4, p3: 0.7000000000000001
+Average Infection (Fraction): 0.234892
+Average Infection (Fraction) Squared: 0.055358383360000006
+Variance Infection : 0.46032923999999187 
+
+Simulating p1: 0.4, p3: 0.75
+Average Infection (Fraction): 0.24500080000000002
+Average Infection (Fraction) Squared: 0.06020348512000001
+Variance Infection : 0.4452327984000323 
+
+Simulating p1: 0.4, p3: 0.8
+Average Infection (Fraction): 0.25082
+Average Infection (Fraction) Squared: 0.06311813312
+Variance Infection : 0.5186518000000157 
+
+Simulating p1: 0.4, p3: 0.8500000000000001
+Average Infection (Fraction): 0.2614812
+Average Infection (Fraction) Squared: 0.06856122447999999
+Variance Infection : 0.4720163164000027 
+
+Simulating p1: 0.4, p3: 0.9
+Average Infection (Fraction): 0.2639072
+Average Infection (Fraction) Squared: 0.06982727168
+Variance Infection : 0.4506536703999853 
+
+Simulating p1: 0.4, p3: 0.9500000000000001
+Average Infection (Fraction): 0.2703964
+Average Infection (Fraction) Squared: 0.07328955311999999
+Variance Infection : 0.4383499676000094 
+
+Simulating p1: 0.4, p3: 1.0
+Average Infection (Fraction): 0.276162
+Average Infection (Fraction) Squared: 0.07642526128
+Variance Infection : 0.39952759000000077 
+
+Simulating p1: 0.45, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.45, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.45, p3: 0.1
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.45, p3: 0.15000000000000002
+Average Infection (Fraction): 0.041898399999999995
+Average Infection (Fraction) Squared: 0.0020147977600000005
+Variance Infection : 0.6483045936000009 
+
+Simulating p1: 0.45, p3: 0.2
+Average Infection (Fraction): 0.0884596
+Average Infection (Fraction) Squared: 0.008035891679999999
+Variance Infection : 0.5269771195999987 
+
+Simulating p1: 0.45, p3: 0.25
+Average Infection (Fraction): 0.1196652
+Average Infection (Fraction) Squared: 0.014499986079999999
+Variance Infection : 0.4505649723999959 
+
+Simulating p1: 0.45, p3: 0.30000000000000004
+Average Infection (Fraction): 0.1456564
+Average Infection (Fraction) Squared: 0.021425667359999997
+Variance Infection : 0.5247012476000004 
+
+Simulating p1: 0.45, p3: 0.35000000000000003
+Average Infection (Fraction): 0.17208679999999998
+Average Infection (Fraction) Squared: 0.02976031696
+Variance Infection : 0.3661255644000019 
+
+Simulating p1: 0.45, p3: 0.4
+Average Infection (Fraction): 0.1941164
+Average Infection (Fraction) Squared: 0.037874969120000004
+Variance Infection : 0.48448092760000144 
+
+Simulating p1: 0.45, p3: 0.45
+Average Infection (Fraction): 0.2122876
+Average Infection (Fraction) Squared: 0.04527156336
+Variance Infection : 0.5138456155999797 
+
+Simulating p1: 0.45, p3: 0.5
+Average Infection (Fraction): 0.2293924
+Average Infection (Fraction) Squared: 0.052809248159999995
+Variance Infection : 0.4709374555999879 
+
+Simulating p1: 0.45, p3: 0.55
+Average Infection (Fraction): 0.2411816
+Average Infection (Fraction) Squared: 0.0583493104
+Variance Infection : 0.4518655536000151 
+
+Simulating p1: 0.45, p3: 0.6000000000000001
+Average Infection (Fraction): 0.25419600000000003
+Average Infection (Fraction) Squared: 0.06478766272
+Variance Infection : 0.4301407600000035 
+
+Simulating p1: 0.45, p3: 0.65
+Average Infection (Fraction): 0.26325239999999994
+Average Infection (Fraction) Squared: 0.06949498736000001
+Variance Infection : 0.48290313560001086 
+
+Simulating p1: 0.45, p3: 0.7000000000000001
+Average Infection (Fraction): 0.27376880000000003
+Average Infection (Fraction) Squared: 0.07510677087999999
+Variance Infection : 0.3935375663999934 
+
+Simulating p1: 0.45, p3: 0.75
+Average Infection (Fraction): 0.2822432
+Average Infection (Fraction) Squared: 0.0798199744
+Variance Infection : 0.39687613440004643 
+
+Simulating p1: 0.45, p3: 0.8
+Average Infection (Fraction): 0.2893936
+Average Infection (Fraction) Squared: 0.08389923392
+Variance Infection : 0.37644549760001245 
+
+Simulating p1: 0.45, p3: 0.8500000000000001
+Average Infection (Fraction): 0.29675799999999997
+Average Infection (Fraction) Squared: 0.08823164112000001
+Variance Infection : 0.41582639000001365 
+
+Simulating p1: 0.45, p3: 0.9
+Average Infection (Fraction): 0.3020244
+Average Infection (Fraction) Squared: 0.09140144528000001
+Variance Infection : 0.45676771160000934 
+
+Simulating p1: 0.45, p3: 0.9500000000000001
+Average Infection (Fraction): 0.30961360000000004
+Average Infection (Fraction) Squared: 0.09600813311999999
+Variance Infection : 0.36887953760004605 
+
+Simulating p1: 0.45, p3: 1.0
+Average Infection (Fraction): 0.31401080000000003
+Average Infection (Fraction) Squared: 0.09877490256
+Variance Infection : 0.43030010839994065 
+
+Simulating p1: 0.5, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.5, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.5, p3: 0.1
+Average Infection (Fraction): 0.0287904
+Average Infection (Fraction) Squared: 0.0010176582399999998
+Variance Infection : 0.4719277695999997 
+
+Simulating p1: 0.5, p3: 0.15000000000000002
+Average Infection (Fraction): 0.069724
+Average Infection (Fraction) Squared: 0.00507873984
+Variance Infection : 0.54325916 
+
+Simulating p1: 0.5, p3: 0.2
+Average Infection (Fraction): 0.11279439999999999
+Average Infection (Fraction) Squared: 0.012906818240000001
+Variance Infection : 0.46060392160000047 
+
+Simulating p1: 0.5, p3: 0.25
+Average Infection (Fraction): 0.14478159999999998
+Average Infection (Fraction) Squared: 0.02114957664
+Variance Infection : 0.46966235359999703 
+
+Simulating p1: 0.5, p3: 0.30000000000000004
+Average Infection (Fraction): 0.1723488
+Average Infection (Fraction) Squared: 0.02988095008
+Variance Infection : 0.4421030463999952 
+
+Simulating p1: 0.5, p3: 0.35000000000000003
+Average Infection (Fraction): 0.1983672
+Average Infection (Fraction) Squared: 0.0395377664
+Variance Infection : 0.4705509104000055 
+
+Simulating p1: 0.5, p3: 0.4
+Average Infection (Fraction): 0.2216388
+Average Infection (Fraction) Squared: 0.0493059512
+Variance Infection : 0.45548383640001994 
+
+Simulating p1: 0.5, p3: 0.45
+Average Infection (Fraction): 0.2397356
+Average Infection (Fraction) Squared: 0.05762584272
+Variance Infection : 0.3817120315999724 
+
+Simulating p1: 0.5, p3: 0.5
+Average Infection (Fraction): 0.2550648
+Average Infection (Fraction) Squared: 0.06522586623999999
+Variance Infection : 0.4195351023999741 
+
+Simulating p1: 0.5, p3: 0.55
+Average Infection (Fraction): 0.26940319999999995
+Average Infection (Fraction) Squared: 0.07273861984
+Variance Infection : 0.40133917439999056 
+
+Simulating p1: 0.5, p3: 0.6000000000000001
+Average Infection (Fraction): 0.2811492
+Average Infection (Fraction) Squared: 0.079205836
+Variance Infection : 0.4024083483999595 
+
+Simulating p1: 0.5, p3: 0.65
+Average Infection (Fraction): 0.2918856
+Average Infection (Fraction) Squared: 0.0853669072
+Variance Infection : 0.4242592815999873 
+
+Simulating p1: 0.5, p3: 0.7000000000000001
+Average Infection (Fraction): 0.30183479999999996
+Average Infection (Fraction) Squared: 0.0912665288
+Variance Infection : 0.405705772400042 
+
+Simulating p1: 0.5, p3: 0.75
+Average Infection (Fraction): 0.311818
+Average Infection (Fraction) Squared: 0.09737643248000001
+Variance Infection : 0.3649183900000062 
+
+Simulating p1: 0.5, p3: 0.8
+Average Infection (Fraction): 0.3185148
+Average Infection (Fraction) Squared: 0.10160545456
+Variance Infection : 0.38444185239998624 
+
+Simulating p1: 0.5, p3: 0.8500000000000001
+Average Infection (Fraction): 0.3263512
+Average Infection (Fraction) Squared: 0.10665920640000001
+Variance Infection : 0.3852516464000102 
+
+Simulating p1: 0.5, p3: 0.9
+Average Infection (Fraction): 0.33270960000000005
+Average Infection (Fraction) Squared: 0.11085828608
+Variance Infection : 0.4065203695999924 
+
+Simulating p1: 0.5, p3: 0.9500000000000001
+Average Infection (Fraction): 0.33958720000000003
+Average Infection (Fraction) Squared: 0.1154778224
+Variance Infection : 0.3958899904000107 
+
+Simulating p1: 0.5, p3: 1.0
+Average Infection (Fraction): 0.3440028
+Average Infection (Fraction) Squared: 0.11849913423999998
+Variance Infection : 0.40301958040003666 
+
+Simulating p1: 0.55, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.55, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.55, p3: 0.1
+Average Infection (Fraction): 0.045226800000000004
+Average Infection (Fraction) Squared: 0.00221507728
+Variance Infection : 0.4240346044000005 
+
+Simulating p1: 0.55, p3: 0.15000000000000002
+Average Infection (Fraction): 0.08793000000000001
+Average Infection (Fraction) Squared: 0.00797712464
+Variance Infection : 0.6135993500000041 
+
+Simulating p1: 0.55, p3: 0.2
+Average Infection (Fraction): 0.1272148
+Average Infection (Fraction) Squared: 0.016415926560000002
+Variance Infection : 0.580803052400006 
+
+Simulating p1: 0.55, p3: 0.25
+Average Infection (Fraction): 0.1613356
+Average Infection (Fraction) Squared: 0.026217135840000003
+Variance Infection : 0.46990003159999616 
+
+Simulating p1: 0.55, p3: 0.30000000000000004
+Average Infection (Fraction): 0.19431720000000002
+Average Infection (Fraction) Squared: 0.03795437808
+Variance Infection : 0.48800966040000787 
+
+Simulating p1: 0.55, p3: 0.35000000000000003
+Average Infection (Fraction): 0.21862079999999998
+Average Infection (Fraction) Squared: 0.047970778240000005
+Variance Infection : 0.43931011840000284 
+
+Simulating p1: 0.55, p3: 0.4
+Average Infection (Fraction): 0.240848
+Average Infection (Fraction) Squared: 0.05817760352
+Variance Infection : 0.42461103999998884 
+
+Simulating p1: 0.55, p3: 0.45
+Average Infection (Fraction): 0.25893079999999996
+Average Infection (Fraction) Squared: 0.06720932496
+Variance Infection : 0.41041442840001546 
+
+Simulating p1: 0.55, p3: 0.5
+Average Infection (Fraction): 0.27587880000000004
+Average Infection (Fraction) Squared: 0.07629463728000002
+Variance Infection : 0.46381247640000656 
+
+Simulating p1: 0.55, p3: 0.55
+Average Infection (Fraction): 0.29027359999999996
+Average Infection (Fraction) Squared: 0.08442314016000001
+Variance Infection : 0.4109432576000225 
+
+Simulating p1: 0.55, p3: 0.6000000000000001
+Average Infection (Fraction): 0.3036648
+Average Infection (Fraction) Squared: 0.09235118464
+Variance Infection : 0.3471847023999784 
+
+Simulating p1: 0.55, p3: 0.65
+Average Infection (Fraction): 0.3145348
+Average Infection (Fraction) Squared: 0.09907959535999998
+Variance Infection : 0.36863737240000627 
+
+Simulating p1: 0.55, p3: 0.7000000000000001
+Average Infection (Fraction): 0.3258188
+Average Infection (Fraction) Squared: 0.10632038224000001
+Variance Infection : 0.40622951639997773 
+
+Simulating p1: 0.55, p3: 0.75
+Average Infection (Fraction): 0.33460480000000004
+Average Infection (Fraction) Squared: 0.11210257952
+Variance Infection : 0.3555183424000163 
+
+Simulating p1: 0.55, p3: 0.8
+Average Infection (Fraction): 0.34148080000000003
+Average Infection (Fraction) Squared: 0.116773576
+Variance Infection : 0.41109807839998974 
+
+Simulating p1: 0.55, p3: 0.8500000000000001
+Average Infection (Fraction): 0.3494464
+Average Infection (Fraction) Squared: 0.1222584736
+Variance Infection : 0.3642178175999783 
+
+Simulating p1: 0.55, p3: 0.9
+Average Infection (Fraction): 0.3558948
+Average Infection (Fraction) Squared: 0.12680461264
+Variance Infection : 0.3587599324000534 
+
+Simulating p1: 0.55, p3: 0.9500000000000001
+Average Infection (Fraction): 0.3638424
+Average Infection (Fraction) Squared: 0.13255505119999997
+Variance Infection : 0.4343979055999778 
+
+Simulating p1: 0.55, p3: 1.0
+Average Infection (Fraction): 0.367712
+Average Infection (Fraction) Squared: 0.13535814496
+Variance Infection : 0.36507504000002516 
+
+Simulating p1: 0.6000000000000001, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.6000000000000001, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.6000000000000001, p3: 0.1
+Average Infection (Fraction): 0.052990800000000005
+Average Infection (Fraction) Squared: 0.0030232040000000003
+Variance Infection : 0.5379477884000007 
+
+Simulating p1: 0.6000000000000001, p3: 0.15000000000000002
+Average Infection (Fraction): 0.09817840000000001
+Average Infection (Fraction) Squared: 0.00986187584
+Variance Infection : 0.5571940336 
+
+Simulating p1: 0.6000000000000001, p3: 0.2
+Average Infection (Fraction): 0.1410648
+Average Infection (Fraction) Squared: 0.02009790976
+Variance Infection : 0.49657990240000655 
+
+Simulating p1: 0.6000000000000001, p3: 0.25
+Average Infection (Fraction): 0.17716679999999999
+Average Infection (Fraction) Squared: 0.03159875888
+Variance Infection : 0.5267096444000025 
+
+Simulating p1: 0.6000000000000001, p3: 0.30000000000000004
+Average Infection (Fraction): 0.2100892
+Average Infection (Fraction) Squared: 0.04431699568
+Variance Infection : 0.44880930840002836 
+
+Simulating p1: 0.6000000000000001, p3: 0.35000000000000003
+Average Infection (Fraction): 0.2353072
+Average Infection (Fraction) Squared: 0.055544771519999994
+Variance Infection : 0.4382328703999752 
+
+Simulating p1: 0.6000000000000001, p3: 0.4
+Average Infection (Fraction): 0.2593048
+Average Infection (Fraction) Squared: 0.06739995456
+Variance Infection : 0.4024381424000254 
+
+Simulating p1: 0.6000000000000001, p3: 0.45
+Average Infection (Fraction): 0.27842480000000003
+Average Infection (Fraction) Squared: 0.07767693823999999
+Variance Infection : 0.3914224624000024 
+
+Simulating p1: 0.6000000000000001, p3: 0.5
+Average Infection (Fraction): 0.29477600000000004
+Average Infection (Fraction) Squared: 0.08704572096
+Variance Infection : 0.3820769599999767 
+
+Simulating p1: 0.6000000000000001, p3: 0.55
+Average Infection (Fraction): 0.30948040000000004
+Average Infection (Fraction) Squared: 0.09593165168000002
+Variance Infection : 0.38383423959999347 
+
+Simulating p1: 0.6000000000000001, p3: 0.6000000000000001
+Average Infection (Fraction): 0.32268919999999995
+Average Infection (Fraction) Squared: 0.1042784168
+Variance Infection : 0.3752425083999988 
+
+Simulating p1: 0.6000000000000001, p3: 0.65
+Average Infection (Fraction): 0.33361
+Average Infection (Fraction) Squared: 0.111456788
+Variance Infection : 0.40288975000004285 
+
+Simulating p1: 0.6000000000000001, p3: 0.7000000000000001
+Average Infection (Fraction): 0.3445104
+Average Infection (Fraction) Squared: 0.11884382432
+Variance Infection : 0.39102152960002423 
+
+Simulating p1: 0.6000000000000001, p3: 0.75
+Average Infection (Fraction): 0.3539244
+Average Infection (Fraction) Squared: 0.12541822415999998
+Variance Infection : 0.38935811159997247 
+
+Simulating p1: 0.6000000000000001, p3: 0.8
+Average Infection (Fraction): 0.3627244
+Average Infection (Fraction) Squared: 0.13172611024
+Variance Infection : 0.3927997115999926 
+
+Simulating p1: 0.6000000000000001, p3: 0.8500000000000001
+Average Infection (Fraction): 0.369544
+Average Infection (Fraction) Squared: 0.13670533024000003
+Variance Infection : 0.3564057599999942 
+
+Simulating p1: 0.6000000000000001, p3: 0.9
+Average Infection (Fraction): 0.3763196
+Average Infection (Fraction) Squared: 0.14174781039999998
+Variance Infection : 0.3284226396000013 
+
+Simulating p1: 0.6000000000000001, p3: 0.9500000000000001
+Average Infection (Fraction): 0.38358000000000003
+Average Infection (Fraction) Squared: 0.14726900639999999
+Variance Infection : 0.338475 
+
+Simulating p1: 0.6000000000000001, p3: 1.0
+Average Infection (Fraction): 0.38924919999999996
+Average Infection (Fraction) Squared: 0.15165873648000003
+Variance Infection : 0.35949194839997217 
+
+Simulating p1: 0.65, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.65, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.65, p3: 0.1
+Average Infection (Fraction): 0.062526
+Average Infection (Fraction) Squared: 0.00418729648
+Variance Infection : 0.6944895099999995 
+
+Simulating p1: 0.65, p3: 0.15000000000000002
+Average Infection (Fraction): 0.10669640000000001
+Average Infection (Fraction) Squared: 0.011554506400000001
+Variance Infection : 0.4259615676000016 
+
+Simulating p1: 0.65, p3: 0.2
+Average Infection (Fraction): 0.1518312
+Average Infection (Fraction) Squared: 0.023210829759999996
+Variance Infection : 0.3952911664000014 
+
+Simulating p1: 0.65, p3: 0.25
+Average Infection (Fraction): 0.1884624
+Average Infection (Fraction) Squared: 0.03569907168
+Variance Infection : 0.4524886656000046 
+
+Simulating p1: 0.65, p3: 0.30000000000000004
+Average Infection (Fraction): 0.22063999999999998
+Average Infection (Fraction) Squared: 0.048865592000000006
+Variance Infection : 0.4589560000000056 
+
+Simulating p1: 0.65, p3: 0.35000000000000003
+Average Infection (Fraction): 0.24806
+Average Infection (Fraction) Squared: 0.0617102384
+Variance Infection : 0.44118700000001115 
+
+Simulating p1: 0.65, p3: 0.4
+Average Infection (Fraction): 0.2701452
+Average Infection (Fraction) Squared: 0.07314935856
+Variance Infection : 0.4273236923999619 
+
+Simulating p1: 0.65, p3: 0.45
+Average Infection (Fraction): 0.29159080000000004
+Average Infection (Fraction) Squared: 0.0851727384
+Variance Infection : 0.3688593884000089 
+
+Simulating p1: 0.65, p3: 0.5
+Average Infection (Fraction): 0.3081764
+Average Infection (Fraction) Squared: 0.0951487096
+Variance Infection : 0.4400402075999882 
+
+Simulating p1: 0.65, p3: 0.55
+Average Infection (Fraction): 0.32485120000000006
+Average Infection (Fraction) Squared: 0.10566541184
+Variance Infection : 0.3427742463999893 
+
+Simulating p1: 0.65, p3: 0.6000000000000001
+Average Infection (Fraction): 0.3391136
+Average Infection (Fraction) Squared: 0.11514708543999999
+Variance Infection : 0.37262933760001327 
+
+Simulating p1: 0.65, p3: 0.65
+Average Infection (Fraction): 0.35050159999999997
+Average Infection (Fraction) Squared: 0.1230063344
+Variance Infection : 0.38740699359998104 
+
+Simulating p1: 0.65, p3: 0.7000000000000001
+Average Infection (Fraction): 0.36065600000000003
+Average Infection (Fraction) Squared: 0.13020354528000003
+Variance Infection : 0.3269873600000516 
+
+Simulating p1: 0.65, p3: 0.75
+Average Infection (Fraction): 0.3698484
+Average Infection (Fraction) Squared: 0.13693266448000002
+Variance Infection : 0.3620637436000165 
+
+Simulating p1: 0.65, p3: 0.8
+Average Infection (Fraction): 0.37871879999999997
+Average Infection (Fraction) Squared: 0.14356421744
+Variance Infection : 0.3407199163999874 
+
+Simulating p1: 0.65, p3: 0.8500000000000001
+Average Infection (Fraction): 0.3884868
+Average Infection (Fraction) Squared: 0.15105779984
+Variance Infection : 0.33951516439998525 
+
+Simulating p1: 0.65, p3: 0.9
+Average Infection (Fraction): 0.3940484
+Average Infection (Fraction) Squared: 0.15540465264
+Variance Infection : 0.3262777436000295 
+
+Simulating p1: 0.65, p3: 0.9500000000000001
+Average Infection (Fraction): 0.402324
+Average Infection (Fraction) Squared: 0.16200494816
+Variance Infection : 0.35086796000003817 
+
+Simulating p1: 0.65, p3: 1.0
+Average Infection (Fraction): 0.4074216
+Average Infection (Fraction) Squared: 0.1661287648
+Variance Infection : 0.3410116336000152 
+
+Simulating p1: 0.7000000000000001, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.7000000000000001, p3: 0.05
+Average Infection (Fraction): 0.0131828
+Average Infection (Fraction) Squared: 0.00045433264000000004
+Variance Infection : 0.7013660604 
+
+Simulating p1: 0.7000000000000001, p3: 0.1
+Average Infection (Fraction): 0.067386
+Average Infection (Fraction) Squared: 0.004803571039999999
+Variance Infection : 0.6567451099999991 
+
+Simulating p1: 0.7000000000000001, p3: 0.15000000000000002
+Average Infection (Fraction): 0.11678960000000001
+Average Infection (Fraction) Squared: 0.013869428800000002
+Variance Infection : 0.5740453296000021 
+
+Simulating p1: 0.7000000000000001, p3: 0.2
+Average Infection (Fraction): 0.16155840000000002
+Average Infection (Fraction) Squared: 0.02630459264
+Variance Infection : 0.5086900735999923 
+
+Simulating p1: 0.7000000000000001, p3: 0.25
+Average Infection (Fraction): 0.2005368
+Average Infection (Fraction) Squared: 0.040386975680000006
+Variance Infection : 0.4299188144000014 
+
+Simulating p1: 0.7000000000000001, p3: 0.30000000000000004
+Average Infection (Fraction): 0.2302596
+Average Infection (Fraction) Squared: 0.05321000592
+Variance Infection : 0.4763063195999945 
+
+Simulating p1: 0.7000000000000001, p3: 0.35000000000000003
+Average Infection (Fraction): 0.258244
+Average Infection (Fraction) Squared: 0.06684768608
+Variance Infection : 0.3943063599999994 
+
+Simulating p1: 0.7000000000000001, p3: 0.4
+Average Infection (Fraction): 0.28163960000000005
+Average Infection (Fraction) Squared: 0.07947664911999999
+Variance Infection : 0.38946207959996537 
+
+Simulating p1: 0.7000000000000001, p3: 0.45
+Average Infection (Fraction): 0.3038636
+Average Infection (Fraction) Squared: 0.09248699472
+Variance Infection : 0.3847682875999715 
+
+Simulating p1: 0.7000000000000001, p3: 0.5
+Average Infection (Fraction): 0.32252959999999997
+Average Infection (Fraction) Squared: 0.10416843136
+Variance Infection : 0.357721209600009 
+
+Simulating p1: 0.7000000000000001, p3: 0.55
+Average Infection (Fraction): 0.3376928
+Average Infection (Fraction) Squared: 0.11418423456000001
+Variance Infection : 0.369518470400013 
+
+Simulating p1: 0.7000000000000001, p3: 0.6000000000000001
+Average Infection (Fraction): 0.3517332
+Average Infection (Fraction) Squared: 0.12385474288000001
+Variance Infection : 0.3462472444000188 
+
+Simulating p1: 0.7000000000000001, p3: 0.65
+Average Infection (Fraction): 0.3619076
+Average Infection (Fraction) Squared: 0.1311264136
+Variance Infection : 0.3732566555999685 
+
+Simulating p1: 0.7000000000000001, p3: 0.7000000000000001
+Average Infection (Fraction): 0.37361880000000003
+Average Infection (Fraction) Squared: 0.13974217488
+Variance Infection : 0.37791791639998557 
+
+Simulating p1: 0.7000000000000001, p3: 0.75
+Average Infection (Fraction): 0.3842072
+Average Infection (Fraction) Squared: 0.14775576672
+Variance Infection : 0.3514854704000056 
+
+Simulating p1: 0.7000000000000001, p3: 0.8
+Average Infection (Fraction): 0.3931312
+Average Infection (Fraction) Squared: 0.15467150271999996
+Variance Infection : 0.29840576639999633 
+
+Simulating p1: 0.7000000000000001, p3: 0.8500000000000001
+Average Infection (Fraction): 0.401352
+Average Infection (Fraction) Squared: 0.1612267984
+Variance Infection : 0.35842623999998907 
+
+Simulating p1: 0.7000000000000001, p3: 0.9
+Average Infection (Fraction): 0.40816719999999995
+Average Infection (Fraction) Squared: 0.16675223103999998
+Variance Infection : 0.37941971040000205 
+
+Simulating p1: 0.7000000000000001, p3: 0.9500000000000001
+Average Infection (Fraction): 0.4154696
+Average Infection (Fraction) Squared: 0.17274540575999997
+Variance Infection : 0.32604308960009365 
+
+Simulating p1: 0.7000000000000001, p3: 1.0
+Average Infection (Fraction): 0.4217668
+Average Infection (Fraction) Squared: 0.17801607824
+Variance Infection : 0.32211164440009743 
+
+Simulating p1: 0.75, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.75, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.75, p3: 0.1
+Average Infection (Fraction): 0.0741388
+Average Infection (Fraction) Squared: 0.00575009808
+Variance Infection : 0.6338410363999981 
+
+Simulating p1: 0.75, p3: 0.15000000000000002
+Average Infection (Fraction): 0.1241472
+Average Infection (Fraction) Squared: 0.015611639679999999
+Variance Infection : 0.49778103040000427 
+
+Simulating p1: 0.75, p3: 0.2
+Average Infection (Fraction): 0.169262
+Average Infection (Fraction) Squared: 0.028837083359999998
+Variance Infection : 0.46864679000001636 
+
+Simulating p1: 0.75, p3: 0.25
+Average Infection (Fraction): 0.20568999999999998
+Average Infection (Fraction) Squared: 0.042510108
+Variance Infection : 0.5043297499999869 
+
+Simulating p1: 0.75, p3: 0.30000000000000004
+Average Infection (Fraction): 0.24101319999999998
+Average Infection (Fraction) Squared: 0.058268311839999996
+Variance Infection : 0.4523731643999927 
+
+Simulating p1: 0.75, p3: 0.35000000000000003
+Average Infection (Fraction): 0.26901400000000003
+Average Infection (Fraction) Squared: 0.07253384112000001
+Variance Infection : 0.4132723100000061 
+
+Simulating p1: 0.75, p3: 0.4
+Average Infection (Fraction): 0.2936916
+Average Infection (Fraction) Squared: 0.0864075768
+Variance Infection : 0.38205222359998153 
+
+Simulating p1: 0.75, p3: 0.45
+Average Infection (Fraction): 0.31466960000000005
+Average Infection (Fraction) Squared: 0.09916692608
+Variance Infection : 0.37492228959999047 
+
+Simulating p1: 0.75, p3: 0.5
+Average Infection (Fraction): 0.33050919999999995
+Average Infection (Fraction) Squared: 0.10937318448
+Variance Infection : 0.3421329884000123 
+
+Simulating p1: 0.75, p3: 0.55
+Average Infection (Fraction): 0.3480808
+Average Infection (Fraction) Squared: 0.12129955744
+Variance Infection : 0.3482852784000337 
+
+Simulating p1: 0.75, p3: 0.6000000000000001
+Average Infection (Fraction): 0.3633748
+Average Infection (Fraction) Squared: 0.13219311056000002
+Variance Infection : 0.3796632123999763 
+
+Simulating p1: 0.75, p3: 0.65
+Average Infection (Fraction): 0.374456
+Average Infection (Fraction) Squared: 0.14037992768
+Variance Infection : 0.40657935999999756 
+
+Simulating p1: 0.75, p3: 0.7000000000000001
+Average Infection (Fraction): 0.38541279999999994
+Average Infection (Fraction) Squared: 0.14868315072000002
+Variance Infection : 0.3503107903999742 
+
+Simulating p1: 0.75, p3: 0.75
+Average Infection (Fraction): 0.3966948
+Average Infection (Fraction) Squared: 0.15750159216
+Variance Infection : 0.33706953240004367 
+
+Simulating p1: 0.75, p3: 0.8
+Average Infection (Fraction): 0.40592999999999996
+Average Infection (Fraction) Squared: 0.1648960376
+Variance Infection : 0.29218174999994223 
+
+Simulating p1: 0.75, p3: 0.8500000000000001
+Average Infection (Fraction): 0.4149456
+Average Infection (Fraction) Squared: 0.17231236352
+Variance Infection : 0.3312814016000368 
+
+Simulating p1: 0.75, p3: 0.9
+Average Infection (Fraction): 0.4222312000000001
+Average Infection (Fraction) Squared: 0.17840636896
+Variance Infection : 0.3179567664000206 
+
+Simulating p1: 0.75, p3: 0.9500000000000001
+Average Infection (Fraction): 0.429166
+Average Infection (Fraction) Squared: 0.18429901392
+Variance Infection : 0.28889591000005604 
+
+Simulating p1: 0.75, p3: 1.0
+Average Infection (Fraction): 0.43547119999999995
+Average Infection (Fraction) Squared: 0.18978180288
+Variance Infection : 0.36659212639983746 
+
+Simulating p1: 0.8, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.8, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.8, p3: 0.1
+Average Infection (Fraction): 0.07959799999999999
+Average Infection (Fraction) Squared: 0.00659199632
+Variance Infection : 0.6403867899999983 
+
+Simulating p1: 0.8, p3: 0.15000000000000002
+Average Infection (Fraction): 0.1298852
+Average Infection (Fraction) Squared: 0.01710448784
+Variance Infection : 0.5858066523999965 
+
+Simulating p1: 0.8, p3: 0.2
+Average Infection (Fraction): 0.17672120000000002
+Average Infection (Fraction) Squared: 0.03142201008
+Variance Infection : 0.47906887639999624 
+
+Simulating p1: 0.8, p3: 0.25
+Average Infection (Fraction): 0.21551800000000004
+Average Infection (Fraction) Squared: 0.046602330719999994
+Variance Infection : 0.38580598999999927 
+
+Simulating p1: 0.8, p3: 0.30000000000000004
+Average Infection (Fraction): 0.24898599999999999
+Average Infection (Fraction) Squared: 0.06217494768
+Variance Infection : 0.45229870999997945 
+
+Simulating p1: 0.8, p3: 0.35000000000000003
+Average Infection (Fraction): 0.276884
+Average Infection (Fraction) Squared: 0.07682739423999999
+Variance Infection : 0.4066119599999627 
+
+Simulating p1: 0.8, p3: 0.4
+Average Infection (Fraction): 0.30214240000000003
+Average Infection (Fraction) Squared: 0.09144366944000001
+Variance Infection : 0.38409890560000204 
+
+Simulating p1: 0.8, p3: 0.45
+Average Infection (Fraction): 0.323712
+Average Infection (Fraction) Squared: 0.10492812255999999
+Variance Infection : 0.3466590400000103 
+
+Simulating p1: 0.8, p3: 0.5
+Average Infection (Fraction): 0.3429432
+Average Infection (Fraction) Squared: 0.11774181152
+Variance Infection : 0.32943273440003396 
+
+Simulating p1: 0.8, p3: 0.55
+Average Infection (Fraction): 0.358346
+Average Infection (Fraction) Squared: 0.12856919088000002
+Variance Infection : 0.393337910000002 
+
+Simulating p1: 0.8, p3: 0.6000000000000001
+Average Infection (Fraction): 0.37212080000000003
+Average Infection (Fraction) Squared: 0.13860766496
+Variance Infection : 0.33443791839997283 
+
+Simulating p1: 0.8, p3: 0.65
+Average Infection (Fraction): 0.3866544
+Average Infection (Fraction) Squared: 0.14965010336
+Variance Infection : 0.37119580160002225 
+
+Simulating p1: 0.8, p3: 0.7000000000000001
+Average Infection (Fraction): 0.3975108
+Average Infection (Fraction) Squared: 0.15816106384
+Variance Infection : 0.3655693083999679 
+
+Simulating p1: 0.8, p3: 0.75
+Average Infection (Fraction): 0.4078516
+Average Infection (Fraction) Squared: 0.16647179056
+Variance Infection : 0.3221573435999919 
+
+Simulating p1: 0.8, p3: 0.8
+Average Infection (Fraction): 0.4171596
+Average Infection (Fraction) Squared: 0.17414622672000002
+Variance Infection : 0.31023711960008366 
+
+Simulating p1: 0.8, p3: 0.8500000000000001
+Average Infection (Fraction): 0.42682159999999997
+Average Infection (Fraction) Squared: 0.18230544928
+Variance Infection : 0.321927633599937 
+
+Simulating p1: 0.8, p3: 0.9
+Average Infection (Fraction): 0.43329520000000005
+Average Infection (Fraction) Squared: 0.18785614464000003
+Variance Infection : 0.2785357424000278 
+
+Simulating p1: 0.8, p3: 0.9500000000000001
+Average Infection (Fraction): 0.4419376
+Average Infection (Fraction) Squared: 0.19543460928
+Variance Infection : 0.3144174655999057 
+
+Simulating p1: 0.8, p3: 1.0
+Average Infection (Fraction): 0.4475532
+Average Infection (Fraction) Squared: 0.20042743791999998
+Variance Infection : 0.30892772439997646 
+
+Simulating p1: 0.8500000000000001, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.8500000000000001, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.8500000000000001, p3: 0.1
+Average Infection (Fraction): 0.08247320000000001
+Average Infection (Fraction) Squared: 0.0071112667199999995
+Variance Infection : 0.7735950044000026 
+
+Simulating p1: 0.8500000000000001, p3: 0.15000000000000002
+Average Infection (Fraction): 0.13467679999999999
+Average Infection (Fraction) Squared: 0.01836499744
+Variance Infection : 0.567892454399995 
+
+Simulating p1: 0.8500000000000001, p3: 0.2
+Average Infection (Fraction): 0.1810376
+Average Infection (Fraction) Squared: 0.03295958048
+Variance Infection : 0.46241966559999853 
+
+Simulating p1: 0.8500000000000001, p3: 0.25
+Average Infection (Fraction): 0.2224448
+Average Infection (Fraction) Squared: 0.049651940480000004
+Variance Infection : 0.425628582400037 
+
+Simulating p1: 0.8500000000000001, p3: 0.30000000000000004
+Average Infection (Fraction): 0.2542068
+Average Infection (Fraction) Squared: 0.06478734096
+Variance Infection : 0.41560948439997153 
+
+Simulating p1: 0.8500000000000001, p3: 0.35000000000000003
+Average Infection (Fraction): 0.2840588
+Average Infection (Fraction) Squared: 0.08084201424
+Variance Infection : 0.381530956399953 
+
+Simulating p1: 0.8500000000000001, p3: 0.4
+Average Infection (Fraction): 0.3098312
+Average Infection (Fraction) Squared: 0.09613896384000001
+Variance Infection : 0.35897836640002206 
+
+Simulating p1: 0.8500000000000001, p3: 0.45
+Average Infection (Fraction): 0.3307652
+Average Infection (Fraction) Squared: 0.10954133712000001
+Variance Infection : 0.33929897239999846 
+
+Simulating p1: 0.8500000000000001, p3: 0.5
+Average Infection (Fraction): 0.350062
+Average Infection (Fraction) Squared: 0.122702716
+Variance Infection : 0.39828039000001736 
+
+Simulating p1: 0.8500000000000001, p3: 0.55
+Average Infection (Fraction): 0.36771159999999997
+Average Infection (Fraction) Squared: 0.13536065104
+Variance Infection : 0.3720756636000238 
+
+Simulating p1: 0.8500000000000001, p3: 0.6000000000000001
+Average Infection (Fraction): 0.38183360000000005
+Average Infection (Fraction) Squared: 0.14593504640000002
+Variance Infection : 0.34537077760007234 
+
+Simulating p1: 0.8500000000000001, p3: 0.65
+Average Infection (Fraction): 0.3952468
+Average Infection (Fraction) Squared: 0.15635482128
+Variance Infection : 0.33697092440002596 
+
+Simulating p1: 0.8500000000000001, p3: 0.7000000000000001
+Average Infection (Fraction): 0.4064004
+Average Infection (Fraction) Squared: 0.16529695279999998
+Variance Infection : 0.3391691996000242 
+
+Simulating p1: 0.8500000000000001, p3: 0.75
+Average Infection (Fraction): 0.4168168
+Average Infection (Fraction) Squared: 0.1738632432
+Variance Infection : 0.31749609440006316 
+
+Simulating p1: 0.8500000000000001, p3: 0.8
+Average Infection (Fraction): 0.426108
+Average Infection (Fraction) Squared: 0.1816967216
+Variance Infection : 0.32173484000004826 
+
+Simulating p1: 0.8500000000000001, p3: 0.8500000000000001
+Average Infection (Fraction): 0.4354476
+Average Infection (Fraction) Squared: 0.18974480239999997
+Variance Infection : 0.32547513560000807 
+
+Simulating p1: 0.8500000000000001, p3: 0.9
+Average Infection (Fraction): 0.4435384
+Average Infection (Fraction) Squared: 0.19684921344000003
+Variance Infection : 0.3072529136000201 
+
+Simulating p1: 0.8500000000000001, p3: 0.9500000000000001
+Average Infection (Fraction): 0.4509856
+Average Infection (Fraction) Squared: 0.2035068816
+Variance Infection : 0.297175481600035 
+
+Simulating p1: 0.8500000000000001, p3: 1.0
+Average Infection (Fraction): 0.45726999999999995
+Average Infection (Fraction) Squared: 0.20921650416
+Variance Infection : 0.30162815000005067 
+
+Simulating p1: 0.9, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.9, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.9, p3: 0.1
+Average Infection (Fraction): 0.08617359999999999
+Average Infection (Fraction) Squared: 0.0077285878399999995
+Variance Infection : 0.756746257599999 
+
+Simulating p1: 0.9, p3: 0.15000000000000002
+Average Infection (Fraction): 0.13732640000000002
+Average Infection (Fraction) Squared: 0.01912812352
+Variance Infection : 0.6739584576000052 
+
+Simulating p1: 0.9, p3: 0.2
+Average Infection (Fraction): 0.1866336
+Average Infection (Fraction) Squared: 0.035037375999999995
+Variance Infection : 0.5131883776000002 
+
+Simulating p1: 0.9, p3: 0.25
+Average Infection (Fraction): 0.22586520000000002
+Average Infection (Fraction) Squared: 0.051187210719999994
+Variance Infection : 0.43030537239997646 
+
+Simulating p1: 0.9, p3: 0.30000000000000004
+Average Infection (Fraction): 0.2607568
+Average Infection (Fraction) Squared: 0.06815379296
+Variance Infection : 0.39921053439998067 
+
+Simulating p1: 0.9, p3: 0.35000000000000003
+Average Infection (Fraction): 0.29116639999999994
+Average Infection (Fraction) Squared: 0.08492607136
+Variance Infection : 0.37049717759997586 
+
+Simulating p1: 0.9, p3: 0.4
+Average Infection (Fraction): 0.3174636
+Average Infection (Fraction) Squared: 0.10093045264
+Variance Infection : 0.36828828760003673 
+
+Simulating p1: 0.9, p3: 0.45
+Average Infection (Fraction): 0.337778
+Average Infection (Fraction) Squared: 0.11425057328
+Variance Infection : 0.3914899899999611 
+
+Simulating p1: 0.9, p3: 0.5
+Average Infection (Fraction): 0.3586032
+Average Infection (Fraction) Squared: 0.12874479200000002
+Variance Infection : 0.3713423743999563 
+
+Simulating p1: 0.9, p3: 0.55
+Average Infection (Fraction): 0.3743536
+Average Infection (Fraction) Squared: 0.14028177471999997
+Variance Infection : 0.3528922175999731 
+
+Simulating p1: 0.9, p3: 0.6000000000000001
+Average Infection (Fraction): 0.3899316
+Average Infection (Fraction) Squared: 0.1521706952
+Variance Infection : 0.3101063036000356 
+
+Simulating p1: 0.9, p3: 0.65
+Average Infection (Fraction): 0.4030696
+Average Infection (Fraction) Squared: 0.16259264576000002
+Variance Infection : 0.318858289600024 
+
+Simulating p1: 0.9, p3: 0.7000000000000001
+Average Infection (Fraction): 0.4146376
+Average Infection (Fraction) Squared: 0.17206532672
+Variance Infection : 0.3524684655998834 
+
+Simulating p1: 0.9, p3: 0.75
+Average Infection (Fraction): 0.42608080000000004
+Average Infection (Fraction) Squared: 0.18167307392
+Variance Infection : 0.32056447840007024 
+
+Simulating p1: 0.9, p3: 0.8
+Average Infection (Fraction): 0.4361468
+Average Infection (Fraction) Squared: 0.19034937904
+Variance Infection : 0.31336972439996896 
+
+Simulating p1: 0.9, p3: 0.8500000000000001
+Average Infection (Fraction): 0.444314
+Average Infection (Fraction) Squared: 0.19754141968
+Variance Infection : 0.3162227099998854 
+
+Simulating p1: 0.9, p3: 0.9
+Average Infection (Fraction): 0.4534672
+Average Infection (Fraction) Squared: 0.20575737632
+Variance Infection : 0.31218711040010677 
+
+Simulating p1: 0.9, p3: 0.9500000000000001
+Average Infection (Fraction): 0.4606176
+Average Infection (Fraction) Squared: 0.21230101056
+Variance Infection : 0.3310928255999461 
+
+Simulating p1: 0.9, p3: 1.0
+Average Infection (Fraction): 0.4673204
+Average Infection (Fraction) Squared: 0.21850292496
+Variance Infection : 0.28642175960000604 
+
+Simulating p1: 0.9500000000000001, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.9500000000000001, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 0.9500000000000001, p3: 0.1
+Average Infection (Fraction): 0.0897524
+Average Infection (Fraction) Squared: 0.00835651888
+Variance Infection : 0.7525639356 
+
+Simulating p1: 0.9500000000000001, p3: 0.15000000000000002
+Average Infection (Fraction): 0.14223919999999998
+Average Infection (Fraction) Squared: 0.02047440096
+Variance Infection : 0.6060273583999951 
+
+Simulating p1: 0.9500000000000001, p3: 0.2
+Average Infection (Fraction): 0.19036960000000003
+Average Infection (Fraction) Squared: 0.036423515520000005
+Variance Infection : 0.4573272896000068 
+
+Simulating p1: 0.9500000000000001, p3: 0.25
+Average Infection (Fraction): 0.23222800000000002
+Average Infection (Fraction) Squared: 0.05412800608
+Variance Infection : 0.4954052399999695 
+
+Simulating p1: 0.9500000000000001, p3: 0.30000000000000004
+Average Infection (Fraction): 0.2670024
+Average Infection (Fraction) Squared: 0.0714414224
+Variance Infection : 0.3778519856000319 
+
+Simulating p1: 0.9500000000000001, p3: 0.35000000000000003
+Average Infection (Fraction): 0.29667240000000006
+Average Infection (Fraction) Squared: 0.08816443536
+Variance Infection : 0.37480609559998845 
+
+Simulating p1: 0.9500000000000001, p3: 0.4
+Average Infection (Fraction): 0.3220396
+Average Infection (Fraction) Squared: 0.10385457008
+Variance Infection : 0.36266527959997763 
+
+Simulating p1: 0.9500000000000001, p3: 0.45
+Average Infection (Fraction): 0.3452016
+Average Infection (Fraction) Squared: 0.11931198176
+Variance Infection : 0.3695927936000284 
+
+Simulating p1: 0.9500000000000001, p3: 0.5
+Average Infection (Fraction): 0.36348800000000003
+Average Infection (Fraction) Squared: 0.1322539008
+Variance Infection : 0.3259366399999708 
+
+Simulating p1: 0.9500000000000001, p3: 0.55
+Average Infection (Fraction): 0.38155560000000005
+Average Infection (Fraction) Squared: 0.14571329744
+Variance Infection : 0.3215538716000039 
+
+Simulating p1: 0.9500000000000001, p3: 0.6000000000000001
+Average Infection (Fraction): 0.3967668
+Average Infection (Fraction) Squared: 0.15755094256000002
+Variance Infection : 0.31762244439995846 
+
+Simulating p1: 0.9500000000000001, p3: 0.65
+Average Infection (Fraction): 0.41054199999999996
+Average Infection (Fraction) Squared: 0.16868144144000002
+Variance Infection : 0.3417691899999976 
+
+Simulating p1: 0.9500000000000001, p3: 0.7000000000000001
+Average Infection (Fraction): 0.42199120000000007
+Average Infection (Fraction) Squared: 0.17819430112
+Variance Infection : 0.2943206063999794 
+
+Simulating p1: 0.9500000000000001, p3: 0.75
+Average Infection (Fraction): 0.4338024
+Average Infection (Fraction) Squared: 0.18831213919999998
+Variance Infection : 0.31904238559994846 
+
+Simulating p1: 0.9500000000000001, p3: 0.8
+Average Infection (Fraction): 0.44308000000000003
+Average Infection (Fraction) Squared: 0.19643192576000001
+Variance Infection : 0.2800984000000171 
+
+Simulating p1: 0.9500000000000001, p3: 0.8500000000000001
+Average Infection (Fraction): 0.4531064
+Average Infection (Fraction) Squared: 0.20543575456
+Variance Infection : 0.32586209759991613 
+
+Simulating p1: 0.9500000000000001, p3: 0.9
+Average Infection (Fraction): 0.46107119999999996
+Average Infection (Fraction) Squared: 0.21270646463999998
+Variance Infection : 0.2995329263999127 
+
+Simulating p1: 0.9500000000000001, p3: 0.9500000000000001
+Average Infection (Fraction): 0.4692004
+Average Infection (Fraction) Squared: 0.22027711951999998
+Variance Infection : 0.3202603996000253 
+
+Simulating p1: 0.9500000000000001, p3: 1.0
+Average Infection (Fraction): 0.47628679999999995
+Average Infection (Fraction) Squared: 0.22697940656000004
+Variance Infection : 0.3257267643999308 
+
+Simulating p1: 1.0, p3: 0.0
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 1.0, p3: 0.05
+Average Infection (Fraction): 0.0
+Average Infection (Fraction) Squared: 0.0
+Variance Infection : 0.0 
+
+Simulating p1: 1.0, p3: 0.1
+Average Infection (Fraction): 0.0922332
+Average Infection (Fraction) Squared: 0.00876089616
+Variance Infection : 0.6348324443999998 
+
+Simulating p1: 1.0, p3: 0.15000000000000002
+Average Infection (Fraction): 0.1458716
+Average Infection (Fraction) Squared: 0.02153021232
+Variance Infection : 0.6292215836000047 
+
+Simulating p1: 1.0, p3: 0.2
+Average Infection (Fraction): 0.19456440000000003
+Average Infection (Fraction) Squared: 0.038047443040000004
+Variance Infection : 0.48034323159999914 
+
+Simulating p1: 1.0, p3: 0.25
+Average Infection (Fraction): 0.2353576
+Average Infection (Fraction) Squared: 0.05554907776
+Variance Infection : 0.3896947055999888 
+
+Simulating p1: 1.0, p3: 0.30000000000000004
+Average Infection (Fraction): 0.2714792
+Average Infection (Fraction) Squared: 0.07386062943999999
+Variance Infection : 0.39918351840002 
+
+Simulating p1: 1.0, p3: 0.35000000000000003
+Average Infection (Fraction): 0.3013256
+Average Infection (Fraction) Squared: 0.09094309984
+Variance Infection : 0.3649565615999978 
+
+Simulating p1: 1.0, p3: 0.4
+Average Infection (Fraction): 0.32933480000000004
+Average Infection (Fraction) Squared: 0.10859473200000001
+Variance Infection : 0.3333037723999936 
+
+Simulating p1: 1.0, p3: 0.45
+Average Infection (Fraction): 0.3512864
+Average Infection (Fraction) Squared: 0.1235571888
+Variance Infection : 0.38763493759999984 
+
+Simulating p1: 1.0, p3: 0.5
+Average Infection (Fraction): 0.3708048
+Average Infection (Fraction) Squared: 0.13762603328
+Variance Infection : 0.3245839424000587 
+
+Simulating p1: 1.0, p3: 0.55
+Average Infection (Fraction): 0.3878388
+Average Infection (Fraction) Squared: 0.15055919184000002
+Variance Infection : 0.3506426364000421 
+
+Simulating p1: 1.0, p3: 0.6000000000000001
+Average Infection (Fraction): 0.40316640000000004
+Average Infection (Fraction) Squared: 0.16267111616
+Variance Infection : 0.31992517759995537 
+
+Simulating p1: 1.0, p3: 0.65
+Average Infection (Fraction): 0.4180908
+Average Infection (Fraction) Squared: 0.17493012815999998
+Variance Infection : 0.325527788399905 
+
+Simulating p1: 1.0, p3: 0.7000000000000001
+Average Infection (Fraction): 0.42944439999999995
+Average Infection (Fraction) Squared: 0.18456005168
+Variance Infection : 0.3438974715999328 
+
+Simulating p1: 1.0, p3: 0.75
+Average Infection (Fraction): 0.4409064
+Average Infection (Fraction) Squared: 0.19453054336
+Variance Infection : 0.33022449759989975 
+
+Simulating p1: 1.0, p3: 0.8
+Average Infection (Fraction): 0.45113800000000004
+Average Infection (Fraction) Squared: 0.20365321424000002
+Variance Infection : 0.31929798999996856 
+
+Simulating p1: 1.0, p3: 0.8500000000000001
+Average Infection (Fraction): 0.46034519999999995
+Average Infection (Fraction) Squared: 0.21204058320000002
+Variance Infection : 0.30720009239995855 
+
+Simulating p1: 1.0, p3: 0.9
+Average Infection (Fraction): 0.46872359999999996
+Average Infection (Fraction) Squared: 0.21982272047999998
+Variance Infection : 0.30226820760006085 
+
+Simulating p1: 1.0, p3: 0.9500000000000001
+Average Infection (Fraction): 0.47648559999999995
+Average Infection (Fraction) Squared: 0.22716382272
+Variance Infection : 0.3132392816000618 
+
+Simulating p1: 1.0, p3: 1.0
+Average Infection (Fraction): 0.4846644
+Average Infection (Fraction) Squared: 0.23502247343999996
+Variance Infection : 0.307232031599991 
+
+Job Done! :)
+Check directory for SIRS_fix_measurements.npy file. Data analysis can be done by using np.load. 
+
